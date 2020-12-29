@@ -4,7 +4,7 @@ import java.util.*;
 /**
  *  백준 1005번 ACM Craft
  */
-public class Baejoon1005 {
+public class Baekjoon1005 {
     static int testCase;
     static int N, K;
     static int[] buildTime;
